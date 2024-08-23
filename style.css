@@ -1,0 +1,108 @@
+*{
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head-hero{
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #00b4d8;
+    background-image: url(./nationa\ stadium.jpg);
+    color: white;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    border:1px solid  rgb(109, 164, 182);
+    background-color: #00b4d8;
+    margin-top: 150px;
+    padding-top: 12px;
+    height: 60px;
+    width: 390px; 
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    border:1px solid  rgb(109, 164, 182);
+    background-color: #00b4d8;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    padding: 12px 15px 15px;
+    height: 70px;
+    width: 430px; 
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.description{
+    margin: 0;
+    padding: 20px;
+    padding-bottom: 200px;
+    box-sizing: border-box;
+    background-color:rgba(39, 176, 245, 0.49);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    margin-bottom: 20px;
+   
+}
+.about{
+    margin-top: 7px;
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    padding-bottom: 100px;
+}
+h2{
+    margin-top: 35px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+img{
+    flex: 1;
+    border-radius: 60%;
+    margin-bottom: 10px;
+}
+h4{
+    margin-bottom: 10px;
+}
+.image{
+    border: 2px solid  rgb(109, 164, 182);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 10px black;
+    background-color: #00b4d8;
+    height: 300px;
+    width: 400px;    
+    border-radius: 10px;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    max-width:500px;
+}
+h5{
+    margin-top: 40px;
+}
+p{
+    font-style: italic;
+}
+.my img{
+    border-radius: 20px;
+    padding: 10px;
+}
+.head h2{
+    margin-top: 2px;
+}
+.header2 p{
+    
+}
+.name h5{
+   padding-left: 7px; 
+   padding-right: 7px;
+   font-style: italic;
+   font-size: larger;
+}
+
